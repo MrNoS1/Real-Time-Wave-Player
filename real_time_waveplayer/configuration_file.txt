@@ -1,0 +1,9 @@
+save_dir：
+G:/wave_11
+single_time（s）：
+10
+save_times：
+3
+samplerate(Hz)：
+96000
+end
